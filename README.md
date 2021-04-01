@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Jason. I'm a Korean-Canadian Computer Engineering student at [UBC](https://www.ubc.ca/). 
+
+- 🧑🏻‍💻 I'm currently an intern at IBM working on a platform that educates millions of students and professionals on IT subjects. Check us out [here](https://cognitiveclass.ai/)
+- [My LinkedIn](https://www.linkedin.com/in/minkyusong/)
+- [My Twitter](https://twitter.com/_smkjason)
+- [My email (smkjason@yahoo.com)](smkjason@yahoo.com)
+
 <!--
 **smkjason/smkjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
