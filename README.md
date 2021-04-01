@@ -8,7 +8,7 @@ I have relevant experience with Android, Java, JavaScript, Node.js, HTML/CSS, an
 ### Feel free to reach out on Social Media, I'd love to chat.
 - [LinkedIn](https://www.linkedin.com/in/minkyusong/)
 - [Twitter](https://twitter.com/_smkjason)
-- Contact: [Email](smkjason@yahoo.com)
+- [Email](smkjason@yahoo.com)
 
 <!--
 **smkjason/smkjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
