@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Jason. I'm a Korean-Canadian Computer Engineering student at [UBC](https://www.ubc.ca/). 
-🧑🏻‍💻 I'm currently a Software Developer Intern at IBM Skills Network Team working on a platform that educates millions of students and professionals on various subjects including Machine Learning, Data Science, Blockchain and more. Check us out [here](https://cognitiveclass.ai/).
+My name is Jason. I'm a Korean-Canadian Computer Engineering student at [UBC](https://www.ubc.ca/). At UBC, in the very broad subject of Computer Engineering, I had the chance to study both Hardware and Software side. I'm currently a Software Developer Intern at IBM Skills Network Team working on a platform that educates millions of students and professionals on various subjects including Machine Learning, Data Science, Blockchain and more. Check us out [here](https://cognitiveclass.ai/).
 
 ### Let's connect on Social Media, I'd love to chat.
 - [LinkedIn](https://www.linkedin.com/in/minkyusong/)
