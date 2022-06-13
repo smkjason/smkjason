@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason. I'm a Korean-Canadian Computer Engineering student at [UBC](https://www.ubc.ca/). At UBC, in the very broad subject of Computer Engineering, I had the chance to study both Hardware(Computer Architecture, Robotics, Electronics) and Software(Algorithms & Data Structures, Mobile & Web Development, Agile). I'm currently a Software Engineer at [Sperta](https://www.sperta.com/). I manage and provision the infrastructure.
+My name is Jason. I'm a Korean-Canadian software engineer located in the San Francisco Bay Area. I graduated with a Bachelor's in Computer Engineering at the University of British Columbia. I'm currently working at [Sperta](https://www.sperta.com/). I'm doing DevOps, Infrastructure, and SRE type of work. 
 
 ### 📫 How to reach me.
 - [LinkedIn](https://www.linkedin.com/in/minkyusong/)
