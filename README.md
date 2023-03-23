@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![](banner.png)
-
 My name is Jason. I'm a Korean-Canadian software engineer located in the San Francisco Bay Area. I graduated with a Bachelor's Degree in Computer Engineering at the University of British Columbia. I'm currently working at [Sperta](https://www.sperta.com/) and I'm doing DevOps, Infrastructure, and SRE type of work.
 
 ## Socials
