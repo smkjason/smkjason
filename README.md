@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Jason. I'm a Korean-Canadian Software Engineer. I graduated with a Bachelor's Degree in Computer Engineering at the University of British Columbia in 2022. I'm currently working at [Sperta](https://www.sperta.com/) building CI/CD pipelines, and backends; managing our Cloud Infrastructure as well as Observability work. 
+My name is Jason. I'm a Korean-Canadian Software Engineer. I graduated with a Bachelor's Degree in Computer Engineering at the University of British Columbia in 2022. I'm currently working at [Sperta](https://www.sperta.com/) building Infra and APIs, and automating stuff... 
 
 ## Socials
 
